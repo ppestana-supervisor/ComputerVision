@@ -1,0 +1,5 @@
+lightglue
+kornia
+opencv-python
+matplotlib
+numpy
