@@ -1,5 +1,4 @@
-lightglue
-kornia
+git+https://github.com/cvg/LightGlue.git
 opencv-python
 matplotlib
 numpy
